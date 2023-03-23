@@ -48,3 +48,5 @@ endfunction(add_exercise)
 
 add_exercise(TP3_exo1_triangle_blanc)
 add_exercise(TP3_exo2_triangle_couleurs)
+add_exercise(TP5_sphere)
+add_exercise(TP6_sphere)
