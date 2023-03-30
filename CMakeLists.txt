@@ -46,7 +46,9 @@ function(add_exercise EXERCISE_NAME)
     Cool__target_copy_folder(${TARGET_NAME} ${EXERCISE_NAME}/shaders shaders)
 endfunction(add_exercise)
 
-add_exercise(TP3_exo1_triangle_blanc)
-add_exercise(TP3_exo2_triangle_couleurs)
-add_exercise(TP5_sphere)
+
 add_exercise(TP6_sphere)
+add_exercise(TP6_lune)
+add_exercise(TP6_terre)
+add_exercise(TP6_multi_tex)
+add_exercise(TP6_multi_shader)
